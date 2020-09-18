@@ -1,0 +1,4 @@
+Name: customscript
+Description: Creates a modelling script template in a new .R file.
+Binding: scriptR
+Interactive: false

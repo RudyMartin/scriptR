@@ -1,0 +1,23 @@
+Package: scriptR
+Title: Creates Standard Data Science And Markdown Files
+Version: 0.0.1.0
+Authors@R: 
+    person(given = "Rudy",
+           family = "Martin",
+           role = c("aut", "cre"),
+           email = "realrudymartin@gmail.com",
+           comment = c(ORCID = "0000-0002-6023-8526"))
+Description: Creates outlined script for easy data science in R and
+    also a proper MDX document that follows pandoc’s markdown spec 
+    markdown for blogging with Gatsby. Other formats are being added 
+    on an as needed basis.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
