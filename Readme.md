@@ -14,7 +14,7 @@ You can install scriptR with
 [remotes](https://github.com/r-lib/remotes):
 
 ``` r
-remotes::install_github("RudyMart/scriptR")
+remotes::install_github("RudyMartin/scriptR")
 ```
 
 ## Usage
